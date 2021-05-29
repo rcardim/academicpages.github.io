@@ -90,7 +90,7 @@ analytics:
 # Site Author
 author:
   name             : "Rebeca Cardim Falcão"
-  avatar           : "/images/YaraMe.jpg"
+  avatar           : /images/YaraMe.jpg
   bio              : "PhD Candidate at UBC, Mathematics Department"
   location         : "Vancouver"
   employer         :
