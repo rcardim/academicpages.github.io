@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rebeca's home page"
+title                    : "Rebeca"
 title_separator          : "-"
 name                     : &name "Rebeca Cardim Falcão"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Rebeca Cardim Falcão"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate at UBC, Mathematics Department"
+  bio              : "Postdoctoral Fellow at BC CDC"
   location         : "Vancouver"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
