@@ -2,7 +2,7 @@
 title: "Multi-state Diffusion Analysis with Measurement Errors"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/reconstruction-conference
 venue: "Centro di Ricerca Matematica Ennio de Giorgi"
 date: 2018-10-18
 location: "Pisa, Italy"
