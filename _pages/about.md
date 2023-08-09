@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Fellow at British Columbia Centre for Disease Control in Vancouver. I hold a Ph.D. Candidate at the Mathematics Department at the University of British Columbia - UBC, under the supervision of Dan Coombs. My Bachelor's and Master's degree were held at Universidade Federal de Pernambuco - UFPE, my hometown university, in the Physics Department. 
+I am a Postdoctoral Fellow at British Columbia Centre for Disease Control in Vancouver. I hold a Ph.D. from the Mathematics Department at the University of British Columbia - UBC, under the supervision of Dan Coombs. My Bachelor's and Master's degrees were held in the Physics Department at Universidade Federal de Pernambuco - UFPE, my hometown university. 
