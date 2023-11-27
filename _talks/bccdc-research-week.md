@@ -8,6 +8,8 @@ date: 2023-11-24
 location: "Vancouver-BC, Canada"
 ---
 
+BC CDC Research week showcasing my work on wastewater-based surveillance.
+
 Abstract: Wastewater data is a promising tool for the surveillance and monitoring infectious diseases. 
 However, a complete understanding of the relationship between the viral load measured in the wastewater 
 treatment plants and the infections and their severity in the population is lacking. Because of their 
