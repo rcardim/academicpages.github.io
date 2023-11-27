@@ -8,4 +8,4 @@ date: 2023-11-24
 location: "Vancouver-BC, Canada"
 ---
 
-Co-presented talk on the project of developing wastewater-based surveillance for viral infections that I'm leading.
+Talk I co-presented at the Provincial Data and Analytics Summit on developing wastewater-based surveillance for viral infections, one of the projects I'm leading in my Postdoctoral fellowship.
