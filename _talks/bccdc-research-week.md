@@ -19,4 +19,4 @@ in addition to past data on hospitalizations. We show that including wastewater 
 prediction of hospitalizations. 
 Moreover, we present the model results for catchment areas of different wastewater treatment plants.
 
-[BCCDC Grand Rounds and Research Week Talks.][https://nexuswebcast.mediasite.com/mediasite/Showcase/bc-cdc-showcase/Presentation/d1719ec2f02a462baddff6f17ed1e1af1d/Channel/96ad3638860240769f34ab0ed8ca8d635f]
+[BCCDC Grand Rounds and Research Week Talks.](https://nexuswebcast.mediasite.com/mediasite/Showcase/bc-cdc-showcase/Presentation/d1719ec2f02a462baddff6f17ed1e1af1d/Channel/96ad3638860240769f34ab0ed8ca8d635f)
