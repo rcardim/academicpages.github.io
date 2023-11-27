@@ -1,6 +1,7 @@
 ---
 title: "Finding clues to T cell activation in dynamic analysis of peptide-MHC mobility"
 collection: talks
+event: "Immuno BC"
 type: "Poster"
 permalink: /talks/immuno-bc-2018
 venue: "Pinnacle Hotel at the Pie"
