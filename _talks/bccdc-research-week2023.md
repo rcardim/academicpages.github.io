@@ -3,7 +3,7 @@ title: "Can wastewater viral load predict Covid and other respiratory infections
 collection: talks
 type: "Oral Presentation at BC CDC Research Week"
 venue: "BC Centre for Disease Control"
-permalink: /talks/bccdc-research-week
+permalink: /talks/bccdc-research-week2023
 date: 2023-11-24
 location: "Vancouver-BC, Canada"
 ---
