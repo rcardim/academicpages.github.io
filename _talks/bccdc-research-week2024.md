@@ -5,7 +5,7 @@ collection: talks
 type: "Oral Presentation at BC CDC Research Week"
 venue: "BC Centre for Disease Control"
 permalink: /talks/bccdc-research-week2024
-date: 2023-11-24
+date: 2024-10-31
 location: "Vancouver-BC, Canada"
 ---
 
